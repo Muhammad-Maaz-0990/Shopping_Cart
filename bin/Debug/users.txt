@@ -1,0 +1,5 @@
+maaz,maaz,maaz@gmail.com
+Sarib,1234,Sarib@gmail.com
+Ahmad,1234,Ahmad@gmail.com
+Maaz,1234,Zain@gmail.com
+Zain,1234,Zain@gmail.com

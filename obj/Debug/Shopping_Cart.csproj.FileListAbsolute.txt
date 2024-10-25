@@ -1,0 +1,24 @@
+D:\New VP\Shopping_Cart\Shopping_Cart\bin\Debug\Shopping_Cart.exe.config
+D:\New VP\Shopping_Cart\Shopping_Cart\bin\Debug\Shopping_Cart.exe
+D:\New VP\Shopping_Cart\Shopping_Cart\bin\Debug\Shopping_Cart.pdb
+D:\New VP\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Properties.Resources.resources
+D:\New VP\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.csproj.GenerateResource.Cache
+D:\New VP\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.exe
+D:\New VP\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.pdb
+D:\New VP\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Form1.resources
+D:\New VP\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.csprojResolveAssemblyReference.cache
+D:\New VP\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.DashboardForm.resources
+D:\New VP\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.CartForm.resources
+D:\New VP\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.CouponFormcs.resources
+D:\New VP - Copy\Shopping_Cart\Shopping_Cart\bin\Debug\Shopping_Cart.exe.config
+D:\New VP - Copy\Shopping_Cart\Shopping_Cart\bin\Debug\Shopping_Cart.exe
+D:\New VP - Copy\Shopping_Cart\Shopping_Cart\bin\Debug\Shopping_Cart.pdb
+D:\New VP - Copy\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.CartForm.resources
+D:\New VP - Copy\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.CouponFormcs.resources
+D:\New VP - Copy\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.DashboardForm.resources
+D:\New VP - Copy\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Form1.resources
+D:\New VP - Copy\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Properties.Resources.resources
+D:\New VP - Copy\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.csproj.GenerateResource.cache
+D:\New VP - Copy\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.exe
+D:\New VP - Copy\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.pdb
+D:\New VP - Copy\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.csprojResolveAssemblyReference.cache
